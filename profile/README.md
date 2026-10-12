@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://networktests.com/img/monitor/monitor-overview-2x.webp" alt="NetworkTests Monitor" width="720">
+  <img src="https://networktests.com/img/monitor/monitor-overview-full.png" alt="NetworkTests Monitor" width="720">
 </p>
 
 # NetworkTests
